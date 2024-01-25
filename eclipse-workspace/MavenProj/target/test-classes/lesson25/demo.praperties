@@ -1,0 +1,10 @@
+# user credentials
+username=abc123
+password=pass123
+
+# env info
+browser=chrome
+url.google.prod=https://google.com
+url.google.qa=https://google_qa.com
+url.google.dev=https://google_dev.com
+url.google.uat=https://google_uat.com

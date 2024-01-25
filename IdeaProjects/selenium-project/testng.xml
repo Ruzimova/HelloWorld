@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="Sum">
+
+        <parameter name="val1" value="4"/>
+        <parameter name="val2" value="2"/>
+        <parameter name="val3" value="10"/>
+        <parameter name="val4" value="3"/>
+
+        <classes>
+            <class name="lesson18.ValuesHML"/>
+        </classes>
+
+    </test>
+</suite>

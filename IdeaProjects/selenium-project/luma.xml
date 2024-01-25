@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="SwagLabHML">
+    <test name="Login">
+
+        <parameter name="username" value="shahnaza.ruzimova@gmail.com"/>
+        <parameter name="password" value="Yannaz.95"/>
+
+        <classes>
+            <class name="lesson18.LumaHML"/>
+        </classes>
+
+    </test>
+</suite>
